@@ -26,13 +26,13 @@ Download and install [JDK 10.0.2](http://www.oracle.com/technetwork/java/javase/
 
 Download and install [FireFox browser](https://www.mozilla.org/ru/firefox/new/)
 
-Download [geckodriver] for driving FireFox browser(https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-win64.zip)
+Download [geckodriver for driving FireFox browser](https://github.com/mozilla/geckodriver/releases/download/v0.21.0/geckodriver-v0.21.0-win64.zip)
 
 Extract downloaded geckodriver file to C:\Windows\System32
 
 Download and install [Google Chrome browser](https://www.google.com/chrome/)
 
-Download [chromedriver] for driving Google Chrome browser(https://chromedriver.storage.googleapis.com/index.html?path=2.41/)
+Download [chromedriver for driving Google Chrome browser](https://chromedriver.storage.googleapis.com/index.html?path=2.41/)
 
 Extract downloaded chromedriver file to C:\Windows\System32
 
