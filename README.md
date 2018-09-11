@@ -1,11 +1,18 @@
 **About this project**
 ------------------------------------------------------------
+
 This project is about to test searching via google.com
+
 It includes next files:
+
 pom.xml - to import necessary libraries(Selenium, TestNG etc.) and plugins.
+
 2 packages in src/test/java/ with tests and pages files which were created using PageObject/PageFactory patterns.
+
 .gitignore - file which includes packages/files that don't need to be committed on GitHub.
+
 google-search-tests.xml - file that consist test suits.
+
 ------------------------------------------------------------
 
 Before running this project you need to install programs below:
